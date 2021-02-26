@@ -1,0 +1,88 @@
+<app-custom-modal title="Edição de usuário" (navigatedParameter)="carregarDadosNavegacao($event)">
+    <form [formGroup]="usuarioForm">
+        <div class="modal-body">					
+            
+            <div class="form-group">
+                <label>Nome</label> 
+                
+                <input 
+                    type="text" 
+                    class="form-control" 
+                    required
+                    [formControlName]="'nome'"
+                    [class.is-invalid] = "preenchimentoValido('nome')">
+
+                <app-input-validador [form]="usuarioForm" [controlName]="'nome'"></app-input-validador>     
+                
+            </div>
+
+            <div class="form-group">
+                <label>Sobrenome</label>
+                
+                <input 
+                    type="text" 
+                    class="form-control" 
+                    required
+                    [formControlName]="'sobrenome'"
+                    [class.is-invalid] = "preenchimentoValido('sobrenome')">
+
+            </div>
+
+            <div class="form-group">
+                <label>Email</label>
+
+                <input 
+                    type="email" 
+                    class="form-control" 
+                    required
+                    [formControlName]="'email'"
+                    [class.is-invalid] = "preenchimentoValido('email')">
+
+                <app-input-validador [form]="usuarioForm" [controlName]="'email'"></app-input-validador>
+                
+            </div>
+
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label>Data Nascimento</label>
+
+                    <div class="input-group">
+
+                        <input       
+                            type="date"               
+                            class="form-control" 
+                            [formControlName]="'data_nascimento'"
+                            placeholder="dd/mm/aaaa"
+                            [max]="dataLimiteNascimento"
+                            [class.is-invalid] = "preenchimentoValido('data_nascimento')">                         
+                    </div>
+
+                    <app-input-validador [form]="usuarioForm" [controlName]="'data_nascimento'"></app-input-validador>     
+
+                </div>
+
+                <div class="form-group col-md-6">
+                    <label>Escolaridade</label>
+
+                    <select 
+                        id="itens" 
+                        class="form-control"
+                        [formControlName]="'escolaridade_id'"
+                        [class.is-invalid] = "preenchimentoValido('escolaridade_id')">
+
+                        <option *ngFor="let escolaridade of escolaridades; let i = index" [ngValue]="escolaridades[i].id">
+                            {{escolaridades[i].nome}}
+                        </option>
+                    </select>
+
+                    <app-input-validador [form]="usuarioForm" [controlName]="'escolaridade_id'"></app-input-validador>                       
+
+                </div>		
+            </div>
+
+            <div class="form-group mt-4">
+                <input type="submit" class="btn btn-info" value="Salvar" (click)="submit()">
+            </div>
+        </div>  
+    </form>
+</app-custom-modal>

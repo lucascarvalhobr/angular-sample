@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\bin\Debug\netcoreapp3.1\AngularAndApi.DAL.deps.json
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\bin\Debug\netcoreapp3.1\AngularAndApi.DAL.runtimeconfig.json
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\bin\Debug\netcoreapp3.1\AngularAndApi.DAL.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\bin\Debug\netcoreapp3.1\AngularAndApi.DAL.dll
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\bin\Debug\netcoreapp3.1\AngularAndApi.DAL.pdb
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\bin\Debug\netcoreapp3.1\AngularAndApi.Models.dll
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\bin\Debug\netcoreapp3.1\AngularAndApi.Models.pdb
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\obj\Debug\netcoreapp3.1\AngularAndApi.DAL.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\obj\Debug\netcoreapp3.1\AngularAndApi.DAL.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\obj\Debug\netcoreapp3.1\AngularAndApi.DAL.AssemblyInfo.cs
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\obj\Debug\netcoreapp3.1\AngularAndApi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\obj\Debug\netcoreapp3.1\AngularAndApi.DAL.csproj.CopyComplete
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\obj\Debug\netcoreapp3.1\AngularAndApi.DAL.dll
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\obj\Debug\netcoreapp3.1\AngularAndApi.DAL.pdb
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.DAL\obj\Debug\netcoreapp3.1\AngularAndApi.DAL.genruntimeconfig.cache

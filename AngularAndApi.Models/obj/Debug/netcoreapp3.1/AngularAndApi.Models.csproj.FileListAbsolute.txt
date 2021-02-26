@@ -1,0 +1,9 @@
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.Models\bin\Debug\netcoreapp3.1\AngularAndApi.Models.deps.json
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.Models\bin\Debug\netcoreapp3.1\AngularAndApi.Models.dll
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.Models\bin\Debug\netcoreapp3.1\AngularAndApi.Models.pdb
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.Models\obj\Debug\netcoreapp3.1\AngularAndApi.Models.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.Models\obj\Debug\netcoreapp3.1\AngularAndApi.Models.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.Models\obj\Debug\netcoreapp3.1\AngularAndApi.Models.AssemblyInfo.cs
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.Models\obj\Debug\netcoreapp3.1\AngularAndApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.Models\obj\Debug\netcoreapp3.1\AngularAndApi.Models.dll
+C:\Users\lucas\Desktop\AngularAndApi\AngularAndApi.Models\obj\Debug\netcoreapp3.1\AngularAndApi.Models.pdb

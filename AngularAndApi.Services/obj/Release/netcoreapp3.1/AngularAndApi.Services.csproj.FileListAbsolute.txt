@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\bin\Release\netcoreapp3.1\AngularAndApi.Services.deps.json
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\bin\Release\netcoreapp3.1\AngularAndApi.Services.dll
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\bin\Release\netcoreapp3.1\AngularAndApi.Services.pdb
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\bin\Release\netcoreapp3.1\AngularAndApi.DAL.dll
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\bin\Release\netcoreapp3.1\AngularAndApi.Models.dll
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\bin\Release\netcoreapp3.1\AngularAndApi.DAL.pdb
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\bin\Release\netcoreapp3.1\AngularAndApi.Models.pdb
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\obj\Release\netcoreapp3.1\AngularAndApi.Services.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\obj\Release\netcoreapp3.1\AngularAndApi.Services.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\obj\Release\netcoreapp3.1\AngularAndApi.Services.AssemblyInfo.cs
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\obj\Release\netcoreapp3.1\AngularAndApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\obj\Release\netcoreapp3.1\AngularAndApi.Services.csproj.CopyComplete
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\obj\Release\netcoreapp3.1\AngularAndApi.Services.dll
+C:\Users\lucas\Documents\Projetos\Programacao\AngularAndApi\AngularAndApi.Services\obj\Release\netcoreapp3.1\AngularAndApi.Services.pdb

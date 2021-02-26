@@ -1,0 +1,41 @@
+<div class="table-responsive">
+    <div class="table-wrapper">
+        <div class="table-title">
+            <div class="row">
+                <div class="col-xs-6">
+                    <h2>Usuários</h2>
+                </div>
+                <div class="col-xs-6 ml-auto">
+                    <a (click)="abrirTelaCadastroUsuario()" class="btn btn-success" data-toggle="modal">
+                        <i class="material-icons">&#xE147;</i> 
+                        <span>Adicionar novo Usuário</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Email</th>
+                    <th>Dt. Nascimento</th>
+                    <th>Escolaridade</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let usuario of usuarios">
+                    <td style="width: 35%;">{{usuario.nome + ' ' + usuario.sobrenome}}</td>
+                    <td>{{usuario.email}}</td>
+                    <td>{{usuario.data_nascimento | date: 'dd/MM/yyyy'}}</td>
+                    <td>{{usuario.escolaridade_nome}}</td>
+                    <td>
+                        <a class="edit" (click)="abrirTelaAtualizacaoUsuario(usuario)"><i class="material-icons" title="Editar">&#xE254;</i></a>
+                        <a class="delete" (click)="apagarUsuario(usuario)"><i class="material-icons" title="Apagar">&#xE872;</i></a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

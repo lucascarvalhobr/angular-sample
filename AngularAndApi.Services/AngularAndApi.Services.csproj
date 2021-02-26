@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AngularAndApi.DAL\AngularAndApi.DAL.csproj" />
+    <ProjectReference Include="..\AngularAndApi.Models\AngularAndApi.Models.csproj" />
+  </ItemGroup>
+
+</Project>

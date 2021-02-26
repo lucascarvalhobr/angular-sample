@@ -1,0 +1,5 @@
+<div *ngIf="(form.get(controlName)?.invalid && form.get(controlName)?.touched) || form.get(controlName)?.dirty">
+    <small *ngIf="form.get(controlName).errors?.required" class="text-danger">Campo é de preenchimento obrigatório.</small>
+    <small *ngIf="form.get(controlName).errors?.pattern" class="text-danger">Preencha o campo com um valor válido.</small>
+    <small *ngIf="form.get(controlName).errors?.maxlength" class="text-danger">Campos deve possuir até {{form.controls[controlName].errors.maxlength.requiredLength}} caracteres.</small>
+</div>   
